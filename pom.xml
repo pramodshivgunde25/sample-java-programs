@@ -22,7 +22,7 @@
     <artifactId>java-samples</artifactId>
     <version>0.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
-
+    <-- git webhook -->
     <name>Java Samples</name>
     <description>Java Sample Code to be used in examples (in blog, etc)</description>
     <inceptionYear>2015</inceptionYear>
